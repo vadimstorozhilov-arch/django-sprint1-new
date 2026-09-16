@@ -1,1 +1,1 @@
-from django.db import models
+# rom django.db import models
